@@ -1,17 +1,23 @@
-programming_dictionary = {
-    "Bug": "An error in a program that prevents the program from running as expected.",
-    "Function": "A piece of code that you can easily call over and over again."
-    }
-programming_dictionary["loop"] = "iterative structure that repeat statement or set of statement"
-print(programming_dictionary)
-# empty dictionary
-empty_dictionary = {}
+student_scores = {
+  "Harry": 81,
+  "Ron": 78,
+  "Hermione": 99, 
+  "Draco": 74,
+  "Neville": 62,
+}
+# 🚨 Don't change the code above 👆
 
-# wipe the Dictionary
+#TODO-1: Create an empty dictionary called student_grades.
 
-# programming_dictionary = {}
-# print(programming_dictionary)
 
-for key in programming_dictionary:
-    print(key)
-    print(programming_dictionary[key])
+#TODO-2: Write your code below to add the grades to student_grades.👇
+
+    
+
+# 🚨 Don't change the code below 👇
+print(student_grades)
+
+
+
+
+
